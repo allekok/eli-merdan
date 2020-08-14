@@ -4,8 +4,8 @@
     "icons": [
         {
             "src": "/eli-merdan/site/image/portraits/1.png",
-            "sizes": "256x256",
-            "type": "image/jpg"
+            "sizes": "130x130",
+            "type": "image/png"
         }
     ],
     "theme_color": "#ffffff",
