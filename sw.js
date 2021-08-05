@@ -4,8 +4,8 @@ self.addEventListener('install', function(event) {
 		caches.open(version).then(function(cache) {
 			return cache.addAll([
 				'/eli-merdan/sw.js',
-				'/eli-merdan/site/script.js?v7',
-				'/eli-merdan/site/style.css?v2',
+				'/eli-merdan/site/script.js?v8',
+				'/eli-merdan/site/style.css?v3',
 				'/eli-merdan/site/image/back.jpg',
 				'/eli-merdan/site/image/portraits/1.svg',
 				'/eli-merdan/site/image/portraits/1.jpg',
